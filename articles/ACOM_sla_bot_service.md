@@ -6,7 +6,7 @@ ms.author: jemash
 ms.date: 01/05/20201
 ms.topic: article
 ms.prod: legal
-layout: ContentPage
+<!-- layout: ContentPage -->
 ---
 
 # SLA for Azure Bot Service
